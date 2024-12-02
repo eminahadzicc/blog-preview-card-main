@@ -29,20 +29,6 @@ The designs were created to the following widths:
 - Family: [Figtree](https://fonts.google.com/specimen/Figtree)
 - Weights: 500, 800
 
-  Learning
 
-  Published 21 Dec 2023
-
-  HTML & CSS foundations
-
-  These languages are the backbone of every website, defining structure, content, and presentation.
-
-  Greg Hooper
-
-  
-    <div class="attribution">
-    Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>.
-    Coded by <a href="#">Emina Hadzic</a>.
-  </div>
 
 > 💎 This is a free+ challenge. So, if you want to see all the design details and practice working with professional tools like Figma, you can download the design file from where you downloaded the starter code.

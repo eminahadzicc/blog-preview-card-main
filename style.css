@@ -1,6 +1,7 @@
 .attribution {
   font-size: 11px;
   text-align: center;
+  margin-top: 20px;
 }
 
 .attribution a {
@@ -14,6 +15,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
+  flex-direction: column;
 }
 
 .card {
@@ -21,9 +23,63 @@ body {
   width: 384px;
   background-color: white;
   border-radius: 20px;
-  border-color: black;
+  border-color: rgb(17, 17, 17);
   border-style: solid;
   border-width: thin;
-  box-shadow: 10px 10px black;
+  box-shadow: 10px 10px rgb(17, 17, 17);
   padding: 24px;
+  margin-left: 15px;
+  margin-right: 15px;
+}
+
+.blog-picture {
+  width: 100%;
+  border-radius: 10px;
+}
+
+
+.category {
+  width: 80px;
+  height: 25px;
+  background-color: rgb(244, 208, 78);
+  border-radius: 4px;
+  text-align: center;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 150%;
+  padding-top: 4px;
+}
+
+.publish-date {
+  font-size: 16px;
+  line-height: 150%;
+}
+
+.title {
+  font-size: 24px;
+  line-height: 150%;
+}
+
+.title:hover {
+  color: rgb(244, 208, 78);
+  cursor: pointer;
+}
+
+.description {
+  font-size: 17px;
+  line-height: 150%;
+  color: rgb(107, 107, 107);
+}
+
+.creator-picture {
+  width: 32px;
+  height: 32px;
+  float: left;
+  margin-right: 20px;
+}
+
+.creator-name {
+  font-weight: bold;
+  font-size: 16px;
+  padding-top: 5px;
 }
