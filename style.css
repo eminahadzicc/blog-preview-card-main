@@ -1,0 +1,29 @@
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+
+body {
+  background-color: rgb(244, 208, 78);
+  font-family: Figtree;
+  min-height: 800px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.card {
+  height: 522px;
+  width: 384px;
+  background-color: white;
+  border-radius: 20px;
+  border-color: black;
+  border-style: solid;
+  border-width: thin;
+  box-shadow: 10px 10px black;
+  padding: 24px;
+}
