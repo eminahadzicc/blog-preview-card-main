@@ -11,7 +11,7 @@
 body {
   background-color: rgb(244, 208, 78);
   font-family: Figtree;
-  min-height: 800px;
+  min-height: 100vh;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -19,8 +19,7 @@ body {
 }
 
 .card {
-  height: 522px;
-  width: 384px;
+  max-width: 384px;
   background-color: white;
   border-radius: 20px;
   border-color: rgb(17, 17, 17);
